@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumyadeep Ray Samanta, you may call me with my unique last name "Ray Samanta".
-- 👀 I’m interested in creating new usable projects, obviously I take help from internet and Youtube(mandatory).
+- 👀 I’m interested in creating new usable projects, obviously I take help from internet and Youtube(important).
 - 🌱 I’m currently learning python and Iot to advanced level, I wanna make some awsome projects to fun and usable.
 - 📫 How to reach me...
 -   1) Google Maps
