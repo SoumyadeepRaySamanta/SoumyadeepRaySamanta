@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadeepraysamanta&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadeepraysamanta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadeepraysamanta" alt="soumyadeepraysamanta" /></a> </p>
 
@@ -23,3 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadeepraysamanta&show_icons=true&locale=en" alt="soumyadeepraysamanta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepraysamanta&" alt="soumyadeepraysamanta" /></p>
+
+
+![snake gif](https://github.com/SoumyadeepRaySamanta/SoumyadeepRaySamanta/blob/output/github-snake-dark.svg)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumyadeepraysamanta&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadeepraysamanta" /> </p>
