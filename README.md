@@ -7,7 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-<p align="left"> <a href="https://twitter.com/soumyadeepray_s" target="blank"><img src="https://img.shields.io/twitter/follow/soumyadeepray_s?logo=twitter&style=for-the-badge" alt="soumyadeepray_s" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
