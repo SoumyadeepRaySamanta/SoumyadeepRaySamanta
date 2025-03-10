@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadeepraysamanta" alt="soumyadeepraysamanta" /></a> </p>
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
 <p align="left"> <a href="https://twitter.com/soumyadeepray_s" target="blank"><img src="https://img.shields.io/twitter/follow/soumyadeepray_s?logo=twitter&style=for-the-badge" alt="soumyadeepray_s" /></a> </p>
 
