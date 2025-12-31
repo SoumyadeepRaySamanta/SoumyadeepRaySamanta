@@ -19,7 +19,3 @@
 
 ![snake gif](https://github.com/SoumyadeepRaySamanta/SoumyadeepRaySamanta/blob/output/github-snake-dark.svg)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/soumyadeepraysamanta/count.svg" />
-</p>
