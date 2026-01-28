@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep</h1>
 
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeepraysamanta&theme=aura&hide_border=true" width="50%" />
-</div>
-
 <!-- Tech Stack -->
 <div align="center">
   
