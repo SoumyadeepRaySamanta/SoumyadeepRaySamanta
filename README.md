@@ -55,3 +55,8 @@ I enjoy building practical projects that combine **hardware concepts with clean,
 - 📧 Email: **soumyadeepraysamanta@gmail.com**
 - 💼 LinkedIn: *[Soumyadeep Ray Samanta](https://www.linkedin.com/in/soumyadeep-ray-samanta/)*</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
